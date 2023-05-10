@@ -1,4 +1,4 @@
-# StudentPerformancePrediction-ML
+# Student Performance Prediction
 This is a simple machine learning project using classifiers for predicting factors which affect student grades, using data from CSV file
 
 
