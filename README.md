@@ -14,3 +14,5 @@ A few visual aids like graphs and confusion matrix have been created, to show th
 ## Contributors
 ### [Aaryan Rajput](https://github.com/LEOplaymaker)
 ### [Srihari S](https://github.com/SSHSRN)
+
+### [Rishi Pratap](https://github.com/RishiPratap)
